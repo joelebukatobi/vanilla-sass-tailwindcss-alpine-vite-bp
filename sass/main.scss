@@ -1,0 +1,9 @@
+// Tailwind
+@import 'tailwindcss/base';
+@import 'tailwindcss/utilities';
+@import 'tailwindcss/components';
+// Styles
+@import 'base.module';
+@import 'elements.module';
+@import 'components.module';
+// @import 'index.module';
